@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashitey 
+# 👋 Hi, I’m Alexander Ashitey 
 
 💻 **Aspiring Software Architect & Front-End Developer**  
 📚 Currently pursuing a *Diploma in Software Development*  
