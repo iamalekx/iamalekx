@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamalekx&show_icons=true&locale=en&cache_seconds=3600&token=${{ secrets.PAT }}" alt="iamalekx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamalekx&" alt="iamalekx" /></p>
+
+![iamalekx's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamalekx&show_icons=true&theme=radical&cache_seconds=3600&token=${{ secrets.PAT }})
