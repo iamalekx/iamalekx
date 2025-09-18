@@ -30,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamalekx&" alt="iamalekx" /></p>
 
-![iamalekx's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamalekx&show_icons=true&theme=radical&cache_seconds=3600&token=${{ secrets.PAT }})
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamalekx&show_icons=true&theme=radical&cache_seconds=3600&token=${{ secrets.PAT }})](https://github.com/iamalekx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamalekx&layout=compact&theme=radical&cache_seconds=3600&token=${{ secrets.PAT }})](https://github.com/iamalekx)
