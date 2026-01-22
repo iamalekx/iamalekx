@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamalekx" alt="iamalekx" /></a> </p>
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 Currently completed the standards of an **Employee Management System** ready to incoporate more advanced functions into it.
 
 - 🌱 I’m currently learning **React and Angular**
 
